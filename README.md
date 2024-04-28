@@ -5,13 +5,13 @@
 
 [📩Download Awesome Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
 
-### COURSE MENTORS LOVE BABBAR AND LAKSHAY KUMAR BHAIYA
+## **Course mentors are Love Babbar & Lakshay Kumar Bhaiya**
 
 This course belongs to [The code help](https://www.thecodehelp.in) and follows both our favorite mentors [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/).
 
 ### PDF NOTES AND CPP PROGRAMS
 
-In this repository, you will get each and every class's notes in the form of a PDF and program with an explanation. Also, get the notes on the discord channel [Console Buster](https://discord.gg/naQUPVWvSs) as well as subscribe to the youtube channel [Console Buster](https://www.youtube.com/@ConsoleBusters) to watch our doubts and much more.
+In this repository, you will get each and every class's notes in the form of a PDF and program with an explanation. Also, get the notes on the discord channel [Console Busters](https://discord.gg/naQUPVWvSs) as well as subscribe to the youtube channel [Console Busters](https://www.youtube.com/@ConsoleBusters) to watch our doubts and much more.
 
 ## COURSE STRUCTURE
 
@@ -909,15 +909,19 @@ CLASS HOMEWORK: 31
 	3. Intersection of Two Linked Lists (Leetcode-160)
 	4. Delete N Nodes after M Nodes (GFG)
 	5. Print kth Node from the End (Hackerrank)
-	6. Flatten Linked List
-	7. Copy List with Random Pointer
-	8. Rotate List
-	9. Find Minimum and Maximum Number of Nodes Between Critical Points
-	10. Merge Nodes in between Zeros
-	11. Add two linked list (Leetcode-442)
-	12. Sort 0, 1, 2 in linked list (GFG)
-	13. ARTICLE: Quick Sort Algorithm is best for array or linked list?
-	14. ARTICLE: Merge Sort Algorithm is best for array or linked list?
+	6. Flatten Linked List (GFG)
+	7. Copy List with Random Pointer (Leetcode-138)
+	8. Rotate List (Leetcode-61)
+	9. Odd Even Linked List (Leetcode-328)
+	10. Find Minimum and Maximum Number of Nodes Between Critical Points (Leetcode-2048)
+	11. Merge Nodes in between Zeros (Leetcode-2181)
+	12. Add two linked list (Leetcode-442)
+	13. Sort 0, 1, 2 in linked list (GFG)
+	14. ARTICLE: Quick Sort Algorithm is best for array or linked list?
+	15. ARTICLE: Merge Sort Algorithm is best for array or linked list?
+	16. Double a number represented as a linked list
+	17. Swapping nodes in a linked list
+	18. Remove zero sum consecutive nodes from linked list
 
 ```
 
@@ -962,6 +966,704 @@ CLASS NOTES: 33
 	1. Problem 1: Implementation of Two Stack in an Array
 	2. Problem 2: Valid Parentheses (Leetcode-20)
 	3. Problem 3: Remove Redundant Brackets
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 11 TOPIC: Stack - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 34
+	Problem 1: Implement a minStack (Leetcode-155)
+	Problem 2: Next smaller element
+	Problem 3: Prev smaller element
+	Problem 4: Largest Rectangle Area in Histogram (Leectcode-84)
+
+CLASS HOMEWORK: 34
+	1. Minimum Bracket Reversal
+	2. Remove All Adjacent Duplicates In String
+	3. Celebrity Problem
+	4. Next greater element in Linked List (Leetcode)
+	5. N Stacks in an Array
+	6. Online Stock Span (Leetcode)
+	7. Check If Word Is Valid After Substitutions (Leetcode)
+	8. Decode Strings (Leetcode)
+	9. Car Fleet I (Leetcode)
+	10. Car Fleet - II (Leetcode)
+	11. Simplify Path (Leetcode)
+	12. Max rectangle in Binary Matrix with all 1s
+	13. Daily Temperatures
+	14. Remove K Digits
+	15. Minimum Add To Make Parentheses Valid
+	16. Longest Valid Parentheses
+	17. Asteroid Collision
+	18. Design Browser History
+	19. Final Prices With a Special Discount in a Shop (Leetcode-1475)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 35
+	1. What is Queue and STL Queue
+	2. Queue Implementation using a Dynamic Array
+	3. Circular Queue Implementation
+	4. Circular Doble Ended Queue Implementation
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 36
+	1. Reverse a queue
+	2. Reverse 'k' element in a queue ⭐
+	3. Interleave first and second half of a queue
+	4. First negative integer in every window of 'k' ⭐
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 37
+	1. First Non Repeating/Unique Character in a String (Leetcode-387)
+	2. Gas Station (Leetcode-134)
+	3. Sliding Window Maximum (Leetcode-239)
+
+HOMEWORK NOTES: 37
+	1. Implement Queue using Stack
+	2. Implement Stacks using Queue
+	3. Implement "K" queues in an array
+	4. Sum of min/max element of all subarray of size "k"
+	5. Number of Recent Calls
+	6. First Unique Character in a String
+	7. Number of People Aware of a Secret
+	8. Maximum Sum Circular Subarray
+	9. Find the Winner of the Circular Game
+	10. Reveal Cards In Increasing Order
+	11. Product of the Last K Numbers
+	12. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+	13. Delivering Boxes from Storage to Ports
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 13 TOPIC: Binary Tree - Class 01</summary>
+
+```bash
+CLASS NOTES: 38
+	1. What is a binary tree
+	2. Terms of binary tree
+	3. Implementation of binary tree
+	4. Three binary tree traversals
+		I. Pre-order traversal
+		II. In order traversal
+		III. Post order traversal
+	5. Level order traversal in a line
+	6. Level order traversal in level wise
+	7. Height of a binary tree (Leetcode-104)
+	8. Diameter of binary tree (Leetcode-543)
+
+HOMEWORK NOTES: 38
+	1. Generics tree
+	2. READ ARTICLE: Skew tree
+	3. READ ARTICLE: BFS and DFS Algorithm
+	4. READ ARTICLE: Complete and perfect binary tree
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 13 TOPIC: Binary Tree - Class 02</summary>
+
+```bash
+CLASS NOTES: 39
+	1. Balanced Binary Tree (Leetcode-110)
+	2. Lowest Common Ancestor of a Binary Tree (Leetcode-236)
+	3. Path Sum (Leetcode-112)
+	4. Path Sum II (Leetcode-113)
+	5. K-th ancestor of a node in Binary Tree (GFG)
+	6. Construct Binary Tree from Inorder and Preorder Traversal (Leetcode-105)
+	7. Construct Binary Tree from Inorder and Postorder Traversal (Leetcode-106)
+
+HOMEWORK NOTES: 39
+	1. K-th ancestor of a node in Binary Tree (GFG)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 13 TOPIC: Binary Tree - Class 03</summary>
+
+```bash
+CLASS NOTES: 40
+	1. Left view of binary tree
+	2. Right view of binary tree
+	3. Top view of binary tree
+	4. Bottom view of binary tree
+	5. Boundary traversal of binary tree
+
+HOMEWORK NOTES: 40
+	1. FW to find diameter of binary tree
+	2. FW to find height balanced tree
+	3. Check two trees are identical
+	4. Symmetric Tree (Mirror Subtrees)
+	5. Zig-zag traversal
+	6. Transform to sum tree
+	7. Diagonal Traversal
+	8. Vertical Traversal
+	9. K-Sum Paths
+	10. Morris Traversal
+	11. Flatten a binary tree into LinkedList
+	12. Sum of longest bloodline of tree
+	13. Maximum sum of non-adjacent nodes
+	14. Burning Tree
+	15. Find Duplicate Sumtrees
+	16. Left view of binary tree using level order traversal
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 14 TOPIC: Binary Search Tree - Class 01</summary>
+
+```bash
+CLASS NOTES: 41
+	1. What is binary search tree
+	2. Create binary search tree
+	3. Traversals of binary search tree
+	4. Min and Max value in BST
+	5. Target value present or not in BST
+	6. Delete node from BST
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 14 TOPIC: Binary Search Tree - Class 02</summary>
+
+```bash
+CLASS NOTES: 42
+	1. Construct BST from Inorder (GFG)
+	2. Validate BST (Leetcode-98)
+	3. Lowest Common Ancestor of a BST (Leetcode-235)
+	4. Kth Smallest Element in a BST (Leetcode-230)
+	5. Two Sum IV - Input is a BST (Leetcode-653)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 14 TOPIC: Binary Search Tree - Class 03</summary>
+
+```bash
+CLASS NOTES: 43
+	1. Convert BST into Sorted Double Linked List (IMP-QUESTION-INTERVIEW)
+	2. Convert Sorted Double Linked List into BST (IMP-QUESTION-INTERVIEW)
+
+HOMEWORK NOTES: 43
+	1. Inorder Successor in BST
+	2. Inorder Predecessor in BST
+	3. Build BST using Preorder Traversal
+	4. Brothers from Different roots
+	5. Convert BST to a Balanced BST
+	6. Find the Median of BST
+	7. Check BST has Dead End
+	8. Count BST Nodes lying in a Range
+	9. Flatten BST to Sorted LL
+	10. Replace elements with the least Greater elements to it Right
+	11. Valid BST from Preorder
+	12. Merge two BSTs
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 01</summary>
+
+```bash
+CLASS NOTES: 44
+	1. What is heap?
+	2. Min and Max heap
+	3. Insertion to heap
+	4. Deletion from heap
+	5. Heapify using recursion
+	6. Convert array to heap
+	7. Heap sort
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 02</summary>
+
+```bash
+CLASS NOTES: 45
+	1. C++ STL Priority Queue "MAX HEAP"
+	2. C++ STL Priority Queue "MIN HEAP"
+	3. Kth Smallest Element in an Array using Max Heap (GFG)
+	4. Kth Largest Element in an Array using Min Heap (GFG)
+	5. Check if a given Complete Binary Tree is a Max Heap or not? (GFG)
+	6. Check Whether a Binary Tree is a Complete Binary Tree or Not? (Leetcode-958)
+	7. Convert Given Combination of CBT and BST into a Valid Max Heap (GFG)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 03</summary>
+
+```bash
+CLASS NOTES: 46
+	1. Merge K Sorted Arrays (GFG)
+	2. Merge K Sorted Linked Lists (Leetcode-23)
+	3. Smallest Range in K Lists (Leetcode-632)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 04</summary>
+
+```bash
+CLASS NOTES: 47
+	1. Remove Stones to Minimize the Total (Leetcode-1962)
+	2. Reorganize String (Leetcode-767)
+	3. Longest Happy String (Leetcode-1405)
+	4. Median in a Stream (CodingNinjas)
+
+HOMEWORK NOTES: 47
+	1. Check If Binary Tree is Heap
+	2. Merge Two Binary Max Heap
+	3. K-Closest points to the origin
+	4. Get Biggest Three Rhombus Sums In A Grid
+	5. Minimum Difference in Sums After Removal of Elements
+	6. Minimum Number of Refueling Stops
+	7. Sliding Window Maximum
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 01</summary>
+
+```bash
+CLASS NOTES: 48
+	1. What is Maps?
+	2. C++ STL Maps Type
+	3. Implement C++ STL Unordered Map
+	4. Hash Function
+		- Hash Code
+		- Compression Function
+		- Collision
+		- Handle Collision Techniques
+			a. Open Hashing
+			b. Closed addressing
+				I. Linear Probing
+				II. Quadratic Probing
+		- How and Why the Time Complexity of Insertion, Deletion, and Searching is O(1)
+		- Load Factor
+	5. Basic problems on maps
+		PROBLEM 1: Store all character frequency of a string
+		PROBLEM 2: Reorganize String (Leetcode-767)
+		PROBLEM 3: Linked List Cycle (Leetcode-141)
+```
+
+</details>
+
+<details>
+  <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 02</summary>
+
+```bash
+CLASS NOTES: 49
+	1. What is Trie?
+	2. How to organize the data in trie?
+	3. Create Trie Node
+	4. Insertion Method of Trie
+	5. Searching Method of Trie
+	6. Deletion Method of Trie
+
+HOMEWORK NOTES: 49
+	1. Print All Words of Given Prefix String
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 03</summary>
+
+```bash
+CLASS NOTES: 50
+	1. Print All Words of Given Prefix String - I
+	2. Print All Words of Given Prefix String - II
+	3. Longest Common Prefix (Leetcode-14)
+
+HOMEWORK NOTES: 50
+	1. Array Subset of Another Array
+	2. Union of Two Linked Lists
+	3. Intersection of Two Linked Lists
+	4. Sum Equals To Sum
+	5. Largest Subarray with 0 Sum
+	6. Largest Subarray of 0’s and 1’s
+	7. Valid Anagram
+	8. Replace Words
+	9. Top K Frequent Words
+	10. Camelcase Matching
+	11. Palindrome Pairs
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 01</summary>
+
+```bash
+CLASS NOTES: 51
+	1. What is Dynamic Programming?
+	2. Where to Use Dynamic Programming?
+	3. Three Approach for DP
+		I. Top Down Approach (Memoization)
+		II. Bottom-up Approach (Tabulation)
+		III. Patterns Approach (Space Optimization)
+	4. Fibonacci (Leetcode-509)
+	5. Cut Segment (GFG)
+	6. What is 1DP and 2DP?
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 02</summary>
+
+```bash
+CLASS NOTES: 52
+	1. House Robber (Leetcode-198)
+	2. Coin Change (Leetcode-322)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 03</summary>
+
+```bash
+CLASS NOTES: 53
+	1. Painting Fence Algorithm (GFG)
+	2. 0/1 Knapsack Problem (GFG)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 04</summary>
+
+```bash
+CLASS NOTES: 54
+	1. Longest Common Subsequence (Leetcode-1143)
+	2. Longest Palindrome Subsequence (Leetcode-516)
+	3. Edit Distance (Leetcode-72)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Class 05</summary>
+
+```bash
+CLASS NOTES: 55
+	1. Longest Increasing Subsequence (Leetcode-300)
+	2. Maximum Height by Stacking Cuboids (Leetcode-1691)
+	3. Russian Doll Envelopes (Leetcode-354)
+	4. Longest Common Subsequence (Leetcode-1143)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Class 06</summary>
+
+```bash
+CLASS NOTES: 56
+	1. Guess Number Higher or Lower II (Leetcode-375)
+	2. Minimum Cost Tree From Leaf Values (Leetcode-1130)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Class 07</summary>
+
+```bash
+CLASS NOTES: 57
+	1. Partition Equal Subset Sum (Leetcode-416)
+	2. Number of Dice Rolls With Target Sum (Leetcode-1155)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Assignments</summary>
+
+```bash
+CLASS ASSIGNMENTS:
+	1. Perfect Squares (Leetcode-279)
+	2. Minimum Cost for Tickets (Leetcode-983)
+	3. Minimum ASCII Delete Sum for 2 Strings Leetcode
+	4. Longest Palindromic SubString Leetcode
+	5. Distinct Subsequences Leetcode
+	6. Word Break Leetcode
+	7. Word Break-2 Leetcode
+	8. Unique BST-2 Leetcode
+	9. House Robber-3 Leetcode
+	10. Unique BST-2 Leetcode
+	11. Stone Game
+	12. Stone Game-2
+	13. Stone Game-3
+	14. Burst balloons Leetcode
+	15. Interleaving Strings Leetcode
+	16. Minimum Insertion Steps to Make a String Palindrome
+	17. Russian Doll Envelopes Leetcode
+	18. Minimum Number of Removals to Make Mountain Array
+	19. Make Array Strictly Increasing
+	20. Best Time To Buy & Sell Stock - Already Taught in Recursion Week
+	21. Best Time To Buy & Sell Stock-2
+	22. Best Time To Buy & Sell Stock-3
+	23. Best Time To Buy & Sell Stock-4
+	24. Best Time To Buy & Sell Stock-5
+	25. Target Sum Leetcode
+	26. Ones and Zeroes Leetcode
+	27. Minimum Swaps To Make Sequences Increasing
+	28. Reducing Dishes Leetcode
+	29. Predict the Winner Leetcode
+
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 19 TOPIC: Graphs - Class 01</summary>
+
+```bash
+CLASS NOTES: 58
+	1. What is a Graph?
+	2. Terminologies of a graph
+		- Directed and undirected graph
+		- Edge list
+		- Unweighted edge and weighted edge
+		- Unweighted graph and weighted graph
+		- Cyclic graph and acyclic graph
+		- Degree
+		- Indegree and outdegree
+		- Path: valid and invalid path
+		- Components (disconnected and connected graph)
+	3. Interview Based Question
+		- Practical use of graph
+		- Is each graph a tree?
+		- Is each tree a graph?
+		- Clone a graph
+	4. Graph Creation
+		- Using Adjacency Matrix
+		- Using Adjacency List
+		- Generalize the code of the graph creation
+		- HW: Time and space complexity of graph creation?
+	5. Traverse the graph
+		- BFS Algorithm
+		- HW: Time and space complexity of BFS?
+		- DFS Algorithm
+		- HW: Time and space complexity of DFS?
+		- HW: Find the number of components of a graph.
+```
+
+</details>
+
+<details>
+  <summary>WEEK 19 TOPIC: Graphs - Class 02</summary>
+
+```bash
+CLASS NOTES: 59
+	1. Detect cycle in an undirected graph using BFS (GFG)
+	2. Detect cycle in an undirected graph using DFS (GFG)
+	3. Detect cycle in an directed graph using DFS (GFG)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 19 TOPIC: Graphs - Class 03</summary>
+
+```bash
+CLASS NOTES: 60
+	1. Topological Sorting with DFS
+	2. Topological Sorting with BFS
+	3. Detect cycle in a directed graph using BFS
+	4. Shortest path in an undirected graph using BFS
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 19 TOPIC: Graphs - Class 04</summary>
+
+```bash
+CLASS NOTES: 61
+	1. Shortest path in a weighted directed graph using DFS (SSSP Algorithms)
+	2. Shortest path in a weighted undirected graph using Dijkstra Algorithm
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 20 TOPIC: Graphs - Class 05</summary>
+
+```bash
+CLASS NOTES: 62
+	1. Course Schedule (Leetcode-207)
+	2. Course Schedule II (Leetcode-210)
+	3. Path With Minimum Effort (Leetcode-1631)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 20 TOPIC: Graphs - Class 06</summary>
+
+```bash
+CLASS NOTES: 63
+	1. Number of Provinces (Leetcode-547)
+	2. Number of Islands (Leetcode-200)
+	3. Flood Fill (Leetcode-733)
+	4. Rotting Oranges (Leetcode-994)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 20 TOPIC: Graphs - Class 07</summary>
+
+```bash
+CLASS NOTES: 64
+	1. Dijkstra Algorithm
+	2. Bellman Ford Algorithm
+	3. Floyd Warshall Algorithm
+	4. Kosaraju Algorithm
+	5. Tarjans Algorithm for Bridges (Leetcode-1192)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 20 TOPIC: Graphs - Assignments</summary>
+
+```bash
+CLASS ASSIGNMENTS:
+	1. Prim’s Algorithm for MST
+	2. Kruskals Algorithm for MST
+	3. Eventual Safe States
+	4. Word Ladder-2
+	5. Minimum Multiplications to reach End
+	6. Number of Operations to Make Network Connected
+	7. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+	8. Accounts Merge
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 21 TOPIC: Bit Manipulation</summary>
+
+```bash
+CLASS NOTES: 65
+	1. Bitwise operators
+	2. Check even or odd number
+	3. Get Ith bit from right side
+	4. Set Ith bit from right side
+	5. Clear Ith bit from right side
+	6. Update Ith bit from right side
+	7. Single number (Leetcode-136)
+	8. Clear n bits from last
+	9. Check power of two
+	10. Count set bits
+	11. Clear bits in range
+	12. Subsequence of a string "Include & Exclude" (Leetcode-78)
+	13. Pow(x, n) (Leetcode-50)
+			- Naive Approach
+			- Fast Exponentiation
+			- Binary Exponentiation
+	14. Single number II (Leetcode-137)
+	15. Single number III (Leetcode-260)
+	16. Binary to decimal
+	17. Decimal to binary
+	18. Count total jump from source to destination
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 21 TOPIC: Sliding Window Technique</summary>
+
+```bash
+CLASS NOTES: 66
+	1. Sliding window varients
+	2. Fixed size window
+		- Sliding Window Maximum (Leetcode-239)
+		- Max Sum Subarray of size K (GFG)
+	3. Variable size window
+		- Minimum Size Subarray Sum (Leetcode-209)
+		- Binary Subarrays With Sum (Leetcode-930)
+	4. Two pointer approach
+		- Two Sum (Leetcode-1)
+	5. Optimization approach
+		- Minimum Window Substring (Leetcode-76)
+	6. Master sliding window through this resource
+	Resource 1: https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring
+	Resource 2: https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide
 
 ```
 
